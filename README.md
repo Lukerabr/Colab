@@ -23,7 +23,7 @@ Enviar o link para o colab com a solução.
 Cada dia de atraso incorre na perda de 1 ponto.
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Atividade 02 de Inteligência Artificial. KNN
 
@@ -53,7 +53,7 @@ Atrasos: Cada dia de atraso implica na perda de 1 ponto.
 Alunos sem notebook: Construa o conjunto de dados utilizando o Celular. 
 Trabalho individual.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Atividade 03 de Inteligência Artificial. Arvore de Decisão
 
@@ -75,7 +75,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 A entrega será o link para o google colab com  o código utilizado para preparar os dados, a(s) árvore(s) de decisão construídas, e a sua recomedação para o dono do marketplace que pode ajudar a melhorar satisfação do cliente.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Atividade 04 de Inteligência Artificial. MPL
 
